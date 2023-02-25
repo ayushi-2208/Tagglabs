@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tagglabs/static/css/main.073c9b0a.css",
+    "main.js": "/Tagglabs/static/js/main.c328f7fa.js",
+    "static/js/787.0420ccf9.chunk.js": "/Tagglabs/static/js/787.0420ccf9.chunk.js",
+    "static/media/logoipsum-logo-3.svg": "/Tagglabs/static/media/logoipsum-logo-3.b52439a4dde2e6118c7d94154e3c65b9.svg",
+    "static/media/logoipsum-logo-7.svg": "/Tagglabs/static/media/logoipsum-logo-7.fa2ca3b8081a0e443bb462f6bafb7e82.svg",
+    "static/media/logoipsum-logo-6.svg": "/Tagglabs/static/media/logoipsum-logo-6.4a2e71a9579c0d0bcf377d15f2a359b8.svg",
+    "static/media/logoipsum-logo-1.svg": "/Tagglabs/static/media/logoipsum-logo-1.52810ca1f45fb5d8d7cd477112cf5e16.svg",
+    "static/media/logo.svg": "/Tagglabs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logoipsum-logo-5.svg": "/Tagglabs/static/media/logoipsum-logo-5.4c86988c2f057a8470888dcf278f0db3.svg",
+    "index.html": "/Tagglabs/index.html",
+    "main.073c9b0a.css.map": "/Tagglabs/static/css/main.073c9b0a.css.map",
+    "main.c328f7fa.js.map": "/Tagglabs/static/js/main.c328f7fa.js.map",
+    "787.0420ccf9.chunk.js.map": "/Tagglabs/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c328f7fa.js"
+  ]
+}
